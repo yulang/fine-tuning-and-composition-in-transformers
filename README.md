@@ -3,7 +3,7 @@ This repo contains datasets and code for **On the Interplay Between Fine-tuning 
 
 # Dependencies
 - The code is implemented with [Huggingface's transformer implementation](https://github.com/huggingface/transformers).
-- The evaluation code is reused from Yu&Ettinger paper **"Assessing Phrasal Representation and Composition in Transformers"**. Code can be found here: https://github.com/yulang/phrasal-composition-in-transformers
+- The evaluation code is reused from Yu&Ettinger paper [**"Assessing Phrasal Representation and Composition in Transformers"**](https://www.aclweb.org/anthology/2020.emnlp-main.397.pdf). Code can be found here: https://github.com/yulang/phrasal-composition-in-transformers
 
 # Repo structure
 - `src/` contains source code to fine-tune transformers and perform analysis
