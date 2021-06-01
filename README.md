@@ -1,5 +1,5 @@
 # About
-This repo contains datasets and code for **On the Interplay Between Fine-tuning and Composition in Transformers** (camera-ready coming soon), by Lang Yu and Allyson Ettinger.
+This repo contains datasets and code for [**On the Interplay Between Fine-tuning and Composition in Transformers**](https://arxiv.org/abs/2105.14668), by Lang Yu and Allyson Ettinger.
 
 # Dependencies
 - The code is implemented with [Huggingface's transformer implementation](https://github.com/huggingface/transformers).
